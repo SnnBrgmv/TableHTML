@@ -1,0 +1,22 @@
+table{
+    margin: auto;
+    width: 50%;
+    border: 1px solid brown;
+    border-collapse: collapse;
+}
+
+table th{
+    border: 1px dotted rgb(141, 86, 86);
+    padding: 12px;
+}
+
+td{
+    border: 1px dashed black;
+    padding: 15px 15px 15px 25px;
+    color: rgb(66, 66, 73);
+    font-size: 18px;
+}
+
+.bgcolor{
+    background-color: rgb(157, 206, 206);
+}
